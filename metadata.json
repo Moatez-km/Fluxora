@@ -1,0 +1,6 @@
+{
+  "name": "Fluxora's Creative Agency Landing Page",
+  "description": "Recreation of Fluxora's premium creative agency section with a gorgeous pure black aesthetic, high-fidelity responsive layout, glowing neon orange visor, and character compliance trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
