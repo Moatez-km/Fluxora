@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
-
 # Fluxora - Premium Creative Agency Landing Page
 
 Fluxora is a high-fidelity, interactive creative agency landing page built with a gorgeous pure black aesthetic, glowing orange accent structures, responsive layouts, and a real-time AI assistant chatbot.
