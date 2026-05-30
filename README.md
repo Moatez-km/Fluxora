@@ -8,6 +8,10 @@ Fluxora is a high-fidelity, interactive creative agency landing page built with 
 
 This repository contains the complete frontend codebase (built with React, TypeScript, Vite, and Framer Motion) and is configured to integrate with an **n8n workflow automation backend** for chatbot interaction.
 
+## 📸 Preview
+
+![Fluxora Landing Page Preview](./screenshots/fluxora_preview.png)
+
 ---
 
 ## 🌟 Key Features
